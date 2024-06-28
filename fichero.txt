@@ -1,0 +1,6 @@
+David,Faustino,62347862,3517895367,Menor
+Lisa Maria,Ortiz,44692455,3514514508,Mayor
+Federica,De Bortoli,72685323,3515825737,Menor
+Rebecca,Soler,32456327,351456219,Cadete
+Monica,Gonzales,23456234,3515326965,Mayor
+Laura,Lenghi,41502490,3516724007,Mayor
