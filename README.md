@@ -23,5 +23,5 @@ Este proyecto es una aplicación para la gestión de una lista de socios en Java
 ## Interfaz de usuario
 
 <div align="center">  
-<img align="center" src="https://i.ibb.co/YXSqgq9/interfazdeusuario.jpg" alt="Screenshot">
+<img align="center" src="https://i.ibb.co/z74Y8dD/interfazdeusuario.jpg" alt="Screenshot">
 </div>
